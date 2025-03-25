@@ -1,7 +1,7 @@
 # ML-Assignment
 ## Clone this Repository
 ```
-git clone 
+git clone https://github.com/Vinothhk/ML-Assignment.git
 ```
 ```
 cd ML-Assignment
